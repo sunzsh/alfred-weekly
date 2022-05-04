@@ -1,0 +1,16 @@
+{
+  "name": "weekly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pkg . -t weekly"
+  },
+  "bin": "./index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.2"
+  }
+}
